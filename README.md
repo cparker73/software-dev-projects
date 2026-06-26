@@ -1,3 +1,3 @@
 # CSC 300 - Software Development
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Projects completed for CSC 300 – Software Development to explore advanced Java programming concepts, software design, and best practices.
+This reposity contains assignments done for my Software Development course. The assignments focus on applying advanced Java features, object-oriented design, and efficient coding practices to develop programs that simulate real-world tasks.
